@@ -1,0 +1,1 @@
+cmd_kernel/gcov/built-in.o :=  /home/dines/Downloads/Downloaded/Android_Toolchains-master/arm-eabi-4.4.3/bin/arm-eabi-ld -EL    -r -o kernel/gcov/built-in.o kernel/gcov/base.o kernel/gcov/fs.o kernel/gcov/gcc_3_4.o 
